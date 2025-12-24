@@ -2,13 +2,13 @@
     {
         "session": "ses",
         "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "api_id": "7515868",
+        "api_hash": "dbd251e9ad4883b0443cc82b618ac6fa",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
-        "db_name": "name",
-        "fsubs": [[-1002074478106, true, 5]],
-        "db": -1002074478106,
+        "db_uri": "mongodb+srv://MarvelAndDc:MarvelAndDc@cluster0.z0uow.mongodb.net/?retryWrites=true&w=majority",
+        "db_name": "AryBro",
+        "fsubs": [[-1001798300759, true, 5]],
+        "db": -1003114743011,
         "auto_del": 0,
         "messages": {
             "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
@@ -18,8 +18,9 @@
             "START_PHOTO": "",
             "FSUB_PHOTO": ""
         },
-        "admins": [78324663, 73468932],
+        "admins": [6081617163],
         "disable_btn": true,
         "protect": false
     }
+
 ]
